@@ -1,0 +1,170 @@
+[
+  {
+    "treatment_id": 1000,
+    "procedure_code": 500,
+    "doctor_id": 1,
+    "patient_id": 100,
+    "policy_number": "A1234",
+    "date": "2024-04-26"
+  },
+  {
+    "treatment_id": 1001,
+    "procedure_code": 506,
+    "doctor_id": 1,
+    "patient_id": 100,
+    "policy_number": "A1234",
+    "date": "2024-04-26"
+  },
+  {
+    "treatment_id": 1002,
+    "procedure_code": 508,
+    "doctor_id": 12,
+    "patient_id": 128,
+    "policy_number": "C9013",
+    "date": "2024-04-28"
+  },
+  {
+    "treatment_id": 1003,
+    "procedure_code": 503,
+    "doctor_id": 12,
+    "patient_id": 128,
+    "policy_number": "C9013",
+    "date": "2024-04-28"
+  },
+  {
+    "treatment_id": 1004,
+    "procedure_code": 501,
+    "doctor_id": 17,
+    "patient_id": 120,
+    "policy_number": "U8901",
+    "date": "2024-04-18"
+  },
+  {
+    "treatment_id": 1005,
+    "procedure_code": 518,
+    "doctor_id": 17,
+    "patient_id": 120,
+    "policy_number": "U8901",
+    "date": "2024-04-22"
+  },
+  {
+    "treatment_id": 1006,
+    "procedure_code": 511,
+    "doctor_id": 6,
+    "patient_id": 115,
+    "policy_number": "P7890",
+    "date": "2024-04-25"
+  },
+  {
+    "treatment_id": 1007,
+    "procedure_code": 504,
+    "doctor_id": 3,
+    "patient_id": 102,
+    "policy_number": "C9012",
+    "date": "2024-04-25"
+  },
+  {
+    "treatment_id": 1008,
+    "procedure_code": 513,
+    "doctor_id": 3,
+    "patient_id": 102,
+    "policy_number": "C9012",
+    "date": "2024-04-01"
+  },
+  {
+    "treatment_id": 1009,
+    "procedure_code": 510,
+    "doctor_id": 13,
+    "patient_id": 129,
+    "policy_number": "D3456",
+    "date": "2024-04-25"
+  },
+  {
+    "treatment_id": 1010,
+    "procedure_code": 509,
+    "doctor_id": 13,
+    "patient_id": 129,
+    "policy_number": "D3456",
+    "date": "2024-04-25"
+  },
+  {
+    "treatment_id": 1011,
+    "procedure_code": 512,
+    "doctor_id": 6,
+    "patient_id": 118,
+    "policy_number": "S0123",
+    "date": "2024-04-25"
+  },
+  {
+    "treatment_id": 1012,
+    "procedure_code": 511,
+    "doctor_id": 6,
+    "patient_id": 118,
+    "policy_number": "S0123",
+    "date": "2024-04-25"
+  },
+  {
+    "treatment_id": 1013,
+    "procedure_code": 519,
+    "doctor_id": 18,
+    "patient_id": 109,
+    "policy_number": "J8901",
+    "date": "2024-04-25"
+  },
+  {
+    "treatment_id": 1014,
+    "procedure_code": 517,
+    "doctor_id": 3,
+    "patient_id": 111,
+    "policy_number": "L6789",
+    "date": "2024-04-12"
+  },
+  {
+    "treatment_id": 1015,
+    "procedure_code": 515,
+    "doctor_id": 13,
+    "patient_id": 122,
+    "policy_number": "W6789",
+    "date": "2024-04-25"
+  },
+  {
+    "treatment_id": 1016,
+    "procedure_code": 507,
+    "doctor_id": 5,
+    "patient_id": 127,
+    "policy_number": "B5678",
+    "date": "2024-04-18"
+  },
+  {
+    "treatment_id": 1017,
+    "procedure_code": 514,
+    "doctor_id": 18,
+    "patient_id": 107,
+    "policy_number": "H0123",
+    "date": "2024-04-25"
+  },
+  {
+    "treatment_id": 1018,
+    "procedure_code": 516,
+    "doctor_id": 14,
+    "patient_id": 126,
+    "policy_number": "A1234",
+    "date": "2024-04-21"
+  },
+  {
+    "treatment_id": 1019,
+    "procedure_code": 505,
+    "doctor_id": 14,
+    "patient_id": 112,
+    "policy_number": "M0123",
+    "date": "2024-04-08"
+  },
+  {
+    "treatment_id": 1020,
+    "procedure_code": 504,
+    "doctor_id": 14,
+    "patient_id": 118,
+    "policy_number": "S0123",
+    "date": "2024-04-08"
+  }
+]

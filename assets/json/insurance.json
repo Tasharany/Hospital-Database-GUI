@@ -1,0 +1,242 @@
+[
+  {
+    "insurance_id": "1",
+    "patient_id": 100,
+    "iname": "Blue Cross Blue Shield",
+    "policy_number": "A1234",
+    "insurance_company": "Blue Cross Blue Shield",
+    "coverage_details": "Basic Coverage"
+  },
+  {
+    "insurance_id": "5",
+    "patient_id": 126,
+    "iname": "Humana",
+    "policy_number": "A1235",
+    "insurance_company": "Humana Inc",
+    "coverage_details": "Mental Health Coverage"
+  },
+  {
+    "insurance_id": "1",
+    "patient_id": 101,
+    "iname": "Blue Cross Blue Shield",
+    "policy_number": "B5678",
+    "insurance_company": "Blue Cross Blue Shield",
+    "coverage_details": "Basic Coverage"
+  },
+  {
+    "insurance_id": "5",
+    "patient_id": 127,
+    "iname": "Humana",
+    "policy_number": "B5679",
+    "insurance_company": "Humana Inc",
+    "coverage_details": "Mental Health Coverage"
+  },
+  {
+    "insurance_id": "1",
+    "patient_id": 102,
+    "iname": "Blue Cross Blue Shield",
+    "policy_number": "C9012",
+    "insurance_company": "Blue Cross Blue Shield",
+    "coverage_details": "Basic Coverage"
+  },
+  {
+    "insurance_id": "6",
+    "patient_id": 128,
+    "iname": "Metlife",
+    "policy_number": "C9013",
+    "insurance_company": "MetLife Inc",
+    "coverage_details": "Comprehensive Vision Plan"
+  },
+  {
+    "insurance_id": "1",
+    "patient_id": 103,
+    "iname": "Blue Cross Blue Shield",
+    "policy_number": "D3456",
+    "insurance_company": "Blue Cross Blue Shield",
+    "coverage_details": "Basic Coverage"
+  },
+  {
+    "insurance_id": "6",
+    "patient_id": 129,
+    "iname": "Metlife",
+    "policy_number": "D3457",
+    "insurance_company": "MetLife Inc",
+    "coverage_details": "Comprehensive Vision Plan"
+  },
+  {
+    "insurance_id": "1",
+    "patient_id": 104,
+    "iname": "Blue Cross Blue Shield",
+    "policy_number": "E7890",
+    "insurance_company": "Blue Cross Blue Shield",
+    "coverage_details": "Basic Coverage"
+  },
+  {
+    "insurance_id": "1",
+    "patient_id": 105,
+    "iname": "Blue Cross Blue Shield",
+    "policy_number": "F2345",
+    "insurance_company": "Blue Cross Blue Shield",
+    "coverage_details": "Basic Coverage"
+  },
+  {
+    "insurance_id": "2",
+    "patient_id": 106,
+    "iname": "Aetna",
+    "policy_number": "G6789",
+    "insurance_company": "Aetna Inc",
+    "coverage_details": "High Deductible Plan"
+  },
+  {
+    "insurance_id": "2",
+    "patient_id": 107,
+    "iname": "Aetna",
+    "policy_number": "H0123",
+    "insurance_company": "Aetna Inc",
+    "coverage_details": "High Deductible Plan"
+  },
+  {
+    "insurance_id": "2",
+    "patient_id": 108,
+    "iname": "Aetna",
+    "policy_number": "I4567",
+    "insurance_company": "Aetna Inc",
+    "coverage_details": "High Deductible Plan"
+  },
+  {
+    "insurance_id": "2",
+    "patient_id": 109,
+    "iname": "Aetna",
+    "policy_number": "J8901",
+    "insurance_company": "Aetna Inc",
+    "coverage_details": "High Deductible Plan"
+  },
+  {
+    "insurance_id": "2",
+    "patient_id": 110,
+    "iname": "Aetna",
+    "policy_number": "K2345",
+    "insurance_company": "Aetna Inc",
+    "coverage_details": "High Deductible Plan"
+  },
+  {
+    "insurance_id": "2",
+    "patient_id": 111,
+    "iname": "Aetna",
+    "policy_number": "L6789",
+    "insurance_company": "Aetna Inc",
+    "coverage_details": "High Deductible Plan"
+  },
+  {
+    "insurance_id": "3",
+    "patient_id": 112,
+    "iname": "Cigna",
+    "policy_number": "M0123",
+    "insurance_company": "Cigna Corporation",
+    "coverage_details": "Comprehensive Dental Care"
+  },
+  {
+    "insurance_id": "3",
+    "patient_id": 113,
+    "iname": "Cigna",
+    "policy_number": "N4567",
+    "insurance_company": "Cigna Corporation",
+    "coverage_details": "Comprehensive Dental Care"
+  },
+  {
+    "insurance_id": "3",
+    "patient_id": 114,
+    "iname": "Cigna",
+    "policy_number": "O8901",
+    "insurance_company": "Cigna Corporation",
+    "coverage_details": "Comprehensive Dental Care"
+  },
+  {
+    "insurance_id": "3",
+    "patient_id": 115,
+    "iname": "Cigna",
+    "policy_number": "P7890",
+    "insurance_company": "Cigna Corporation",
+    "coverage_details": "Comprehensive Dental Care"
+  },
+  {
+    "insurance_id": "3",
+    "patient_id": 116,
+    "iname": "Cigna",
+    "policy_number": "Q2345",
+    "insurance_company": "Cigna Corporation",
+    "coverage_details": "Comprehensive Dental Care"
+  },
+  {
+    "insurance_id": "3",
+    "patient_id": 117,
+    "iname": "Cigna",
+    "policy_number": "R6789",
+    "insurance_company": "Cigna Corporation",
+    "coverage_details": "Comprehensive Dental Care"
+  },
+  {
+    "insurance_id": "4",
+    "patient_id": 118,
+    "iname": "United Health Care",
+    "policy_number": "S0123",
+    "insurance_company": "UnitedHealth Group",
+    "coverage_details": "Family Coverage"
+  },
+  {
+    "insurance_id": "4",
+    "patient_id": 119,
+    "iname": "United Health Care",
+    "policy_number": "T4567",
+    "insurance_company": "UnitedHealth Group",
+    "coverage_details": "Family Coverage"
+  },
+  {
+    "insurance_id": "4",
+    "patient_id": 120,
+    "iname": "United Health Care",
+    "policy_number": "U8901",
+    "insurance_company": "UnitedHealth Group",
+    "coverage_details": "Family Coverage"
+  },
+  {
+    "insurance_id": "4",
+    "patient_id": 121,
+    "iname": "United Health Care",
+    "policy_number": "V2345",
+    "insurance_company": "UnitedHealth Group",
+    "coverage_details": "Family Coverage"
+  },
+  {
+    "insurance_id": "4",
+    "patient_id": 122,
+    "iname": "United Health Care",
+    "policy_number": "W6789",
+    "insurance_company": "UnitedHealth Group",
+    "coverage_details": "Family Coverage"
+  },
+  {
+    "insurance_id": "4",
+    "patient_id": 123,
+    "iname": "United Health Care",
+    "policy_number": "X0123",
+    "insurance_company": "UnitedHealth Group",
+    "coverage_details": "Family Coverage"
+  },
+  {
+    "insurance_id": "5",
+    "patient_id": 124,
+    "iname": "Humana",
+    "policy_number": "Y4567",
+    "insurance_company": "Humana Inc",
+    "coverage_details": "Mental Health Coverage"
+  },
+  {
+    "insurance_id": "5",
+    "patient_id": 125,
+    "iname": "Humana",
+    "policy_number": "Z8901",
+    "insurance_company": "Humana Inc",
+    "coverage_details": "Mental Health Coverage"
+  }
+]

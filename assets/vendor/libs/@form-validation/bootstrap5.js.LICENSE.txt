@@ -1,0 +1,39 @@
+/** 
+ * FormValidation (https://formvalidation.io)
+ * The best validation library for JavaScript
+ * (c) 2013 - 2023 Nguyen Huu Phuoc <me@phuoc.ng>
+ *
+ * @license https://formvalidation.io/license
+ * @package @form-validation/core
+ * @version 2.4.0
+ */
+
+/** 
+ * FormValidation (https://formvalidation.io)
+ * The best validation library for JavaScript
+ * (c) 2013 - 2023 Nguyen Huu Phuoc <me@phuoc.ng>
+ *
+ * @license https://formvalidation.io/license
+ * @package @form-validation/plugin-bootstrap5
+ * @version 2.4.0
+ */
+
+/** 
+ * FormValidation (https://formvalidation.io)
+ * The best validation library for JavaScript
+ * (c) 2013 - 2023 Nguyen Huu Phuoc <me@phuoc.ng>
+ *
+ * @license https://formvalidation.io/license
+ * @package @form-validation/plugin-framework
+ * @version 2.4.0
+ */
+
+/** 
+ * FormValidation (https://formvalidation.io)
+ * The best validation library for JavaScript
+ * (c) 2013 - 2023 Nguyen Huu Phuoc <me@phuoc.ng>
+ *
+ * @license https://formvalidation.io/license
+ * @package @form-validation/plugin-message
+ * @version 2.4.0
+ */

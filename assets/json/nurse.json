@@ -1,0 +1,152 @@
+[
+  {
+    "nurse_id": 21,
+    "nname": "Mason Nelson",
+    "department": "Cardiology"
+  },
+  {
+    "nurse_id": 22,
+    "nname": "Harper Adams",
+    "department": "Oncology"
+  },
+  {
+    "nurse_id": 23,
+    "nname": "Evelyn Baker",
+    "department": "Radiology"
+  },
+  {
+    "nurse_id": 24,
+    "nname": "Jackson King",
+    "department": "Neurology"
+  },
+  {
+    "nurse_id": 25,
+    "nname": "Liam Ward",
+    "department": "Psychiatry"
+  },
+  {
+    "nurse_id": 26,
+    "nname": "John Doe",
+    "department": "Emergency Department (ER)"
+  },
+  {
+    "nurse_id": 27,
+    "nname": "Jane Smith",
+    "department": "Internal Medicine"
+  },
+  {
+    "nurse_id": 28,
+    "nname": "Michael Johnson",
+    "department": "Surgery"
+  },
+  {
+    "nurse_id": 29,
+    "nname": "Emily Williams",
+    "department": "Pediatrics"
+  },
+  {
+    "nurse_id": 30,
+    "nname": "Christopher Brown",
+    "department": "Obstetrics and Gynecology"
+  },
+  {
+    "nurse_id": 31,
+    "nname": "Jessica Davis",
+    "department": "Cardiology"
+  },
+  {
+    "nurse_id": 32,
+    "nname": "David Taylor",
+    "department": "Oncology"
+  },
+  {
+    "nurse_id": 33,
+    "nname": "Maria Martinez",
+    "department": "Neurology"
+  },
+  {
+    "nurse_id": 34,
+    "nname": "Daniel Rodriguez",
+    "department": "Psychiatry"
+  },
+  {
+    "nurse_id": 35,
+    "nname": "Sarah Garcia",
+    "department": "Anesthesiology"
+  },
+  {
+    "nurse_id": 36,
+    "nname": "Matthew Hernandez",
+    "department": "Orthopedics"
+  },
+  {
+    "nurse_id": 37,
+    "nname": "Amanda Martinez",
+    "department": "Ophthalmology"
+  },
+  {
+    "nurse_id": 38,
+    "nname": "Laura Lopez",
+    "department": "Dermatology"
+  },
+  {
+    "nurse_id": 39,
+    "nname": "Robert Gonzalez",
+    "department": "ENT"
+  },
+  {
+    "nurse_id": 40,
+    "nname": "Jennifer Perez",
+    "department": "Radiology"
+  },
+  {
+    "nurse_id": 41,
+    "nname": "William Wilson",
+    "department": "Emergency Department (ER)"
+  },
+  {
+    "nurse_id": 42,
+    "nname": "Mary Carter",
+    "department": "Cardiology"
+  },
+  {
+    "nurse_id": 43,
+    "nname": "James Wright",
+    "department": "Internal Medicine"
+  },
+  {
+    "nurse_id": 44,
+    "nname": "Karen Hill",
+    "department": "Surgery"
+  },
+  {
+    "nurse_id": 45,
+    "nname": "Michael Young",
+    "department": "Pediatrics"
+  },
+  {
+    "nurse_id": 46,
+    "nname": "Jennifer Scott",
+    "department": "Obstetrics and Gynecology"
+  },
+  {
+    "nurse_id": 47,
+    "nname": "David Nelson",
+    "department": "Oncology"
+  },
+  {
+    "nurse_id": 48,
+    "nname": "Jessica Adams",
+    "department": "Neurology"
+  },
+  {
+    "nurse_id": 49,
+    "nname": "John Baker",
+    "department": "Radiology"
+  },
+  {
+    "nurse_id": 50,
+    "nname": "Mary King",
+    "department": "Orthopedics"
+  }
+]

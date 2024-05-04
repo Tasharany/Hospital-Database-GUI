@@ -1,0 +1,124 @@
+{
+  "data": [
+  {
+    "doctor_id": 1,
+    "dname": "John Smith",
+    "specialty": "Emergency Department (ER)",
+    "department": "Emergency Department (ER)"
+  },
+  {
+    "doctor_id": 2,
+    "dname": "Emily Johnson",
+    "specialty": "Internal Medicine",
+    "department": "Internal Medicine"
+  },
+  {
+    "doctor_id": 3,
+    "dname": "Michael Williams",
+    "specialty": "Surgery",
+    "department": "Surgery"
+  },
+  {
+    "doctor_id": 4,
+    "dname": "Jessica Brown",
+    "specialty": "Pediatrics",
+    "department": "Pediatrics"
+  },
+  {
+    "doctor_id": 5,
+    "dname": "Daniel Davis",
+    "specialty": "Obstetrics and Gynecology",
+    "department": "Obstetrics and Gynecology"
+  },
+  {
+    "doctor_id": 6,
+    "dname": "Sarah Taylor",
+    "specialty": "Cardiology",
+    "department": "Cardiology"
+  },
+  {
+    "doctor_id": 7,
+    "dname": "Christopher Martinez",
+    "specialty": "Oncology",
+    "department": "Oncology"
+  },
+  {
+    "doctor_id": 8,
+    "dname": "Amanda Rodriguez",
+    "specialty": "Radiology",
+    "department": "Radiology"
+  },
+  {
+    "doctor_id": 9,
+    "dname": "James Garcia",
+    "specialty": "Neurology",
+    "department": "Neurology"
+  },
+  {
+    "doctor_id": 10,
+    "dname": "Jennifer Hernandez",
+    "specialty": "Psychiatry",
+    "department": "Psychiatry"
+  },
+  {
+    "doctor_id": 11,
+    "dname": "Matthew Martinez",
+    "specialty": "Anesthesiology",
+    "department": "Anesthesiology"
+  },
+  {
+    "doctor_id": 12,
+    "dname": "Kennedy Achord",
+    "specialty": "Optometry",
+    "department": "Optometry"
+  },
+  {
+    "doctor_id": 13,
+    "dname": "Andrew Gonzalez",
+    "specialty": "Ophthalmology",
+    "department": "Ophthalmology"
+  },
+  {
+    "doctor_id": 14,
+    "dname": "Olivia Perez",
+    "specialty": "Dermatology",
+    "department": "Dermatology"
+  },
+  {
+    "doctor_id": 15,
+    "dname": "David Wilson",
+    "specialty": "ENT",
+    "department": "ENT"
+  },
+  {
+    "doctor_id": 16,
+    "dname": "Sophia Carter",
+    "specialty": "Emergency Department (ER)",
+    "department": "Emergency Department (ER)"
+  },
+  {
+    "doctor_id": 17,
+    "dname": "William Wright",
+    "specialty": "Internal Medicine",
+    "department": "Internal Medicine"
+  },
+  {
+    "doctor_id": 18,
+    "dname": "Isabella Hill",
+    "specialty": "Surgery",
+    "department": "Surgery"
+  },
+  {
+    "doctor_id": 19,
+    "dname": "Joseph Young",
+    "specialty": "Pediatrics",
+    "department": "Pediatrics"
+  },
+  {
+    "doctor_id": 20,
+    "dname": "Charlotte Scott",
+    "specialty": "Obstetrics and Gynecology",
+    "department": "Obstetrics and Gynecology"
+  }
+  ]
+}

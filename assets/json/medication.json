@@ -1,0 +1,142 @@
+[
+  {
+    "medicine_code": 1000,
+    "name": "Aspirin",
+    "brand": "Bayer",
+    "description": "Reduces fever, pain, inflammation",
+    "cost": 95.95
+  },
+  {
+    "medicine_code": 1001,
+    "name": "Ibuprofen",
+    "brand": "Advil",
+    "description": "Relieves arthritis, fever",
+    "cost": 1071.90
+  },
+  {
+    "medicine_code": 1002,
+    "name": "Acetaminophen",
+    "brand": "Tylenol",
+    "description": "Treats pain, reduces fever",
+    "cost": 767.71
+  },
+  {
+    "medicine_code": 1003,
+    "name": "Lisinopril",
+    "brand": "Prinivil",
+    "description": "Manages high blood pressure",
+    "cost": 604.49
+  },
+  {
+    "medicine_code": 1004,
+    "name": "Levothyroxine",
+    "brand": "Synthroid",
+    "description": "Treats underactive thyroid gland",
+    "cost": 792.24
+  },
+  {
+    "medicine_code": 1005,
+    "name": "Atorvastatin",
+    "brand": "Lipitor",
+    "description": "Lowers cholesterol levels",
+    "cost": 104.78
+  },
+  {
+    "medicine_code": 1006,
+    "name": "Metformin",
+    "brand": "Glucophage",
+    "description": "Treats type 2 diabetes",
+    "cost": 178.16
+  },
+  {
+    "medicine_code": 1007,
+    "name": "Amlodipine",
+    "brand": "Norvasc",
+    "description": "Treats high blood pressure, chest pain",
+    "cost": 618.66
+  },
+  {
+    "medicine_code": 1008,
+    "name": "Simvastatin",
+    "brand": "Zocor",
+    "description": "Lowers cholesterol levels",
+    "cost": 328.07
+  },
+  {
+    "medicine_code": 1009,
+    "name": "Losartan",
+    "brand": "Cozaar",
+    "description": "Treats high blood pressure, reduces stroke risk",
+    "cost": 792.94
+  },
+  {
+    "medicine_code": 1010,
+    "name": "Albuterol",
+    "brand": "Proventil",
+    "description": "Treats bronchospasm",
+    "cost": 421.13
+  },
+  {
+    "medicine_code": 1011,
+    "name": "Omeprazole",
+    "brand": "Prilosec",
+    "description": "Treats GERD symptoms",
+    "cost": 444.10
+  },
+  {
+    "medicine_code": 1012,
+    "name": "Metoprolol",
+    "brand": "Lopressor",
+    "description": "Treats high blood pressure, chest pain, heart failure",
+    "cost": 835.66
+  },
+  {
+    "medicine_code": 1013,
+    "name": "Hydrochlorothiazide",
+    "brand": "Microzide",
+    "description": "Treats high blood pressure, fluid retention",
+    "cost": 692.30
+  },
+  {
+    "medicine_code": 1014,
+    "name": "Prednisone",
+    "brand": "Rayos",
+    "description": "Treats arthritis, blood disorders, allergies",
+    "cost": 366.50
+  },
+  {
+    "medicine_code": 1015,
+    "name": "Gabapentin",
+    "brand": "Neurontin",
+    "description": "Treats epilepsy, nerve pain, hot flashes",
+    "cost": 659.70
+  },
+  {
+    "medicine_code": 1016,
+    "name": "Sertraline",
+    "brand": "Zoloft",
+    "description": "Treats depression, anxiety disorders",
+    "cost": 219.46
+  },
+  {
+    "medicine_code": 1017,
+    "name": "Amoxicillin",
+    "brand": "Moxatag",
+    "description": "Treats bacterial infections",
+    "cost": 33.25
+  },
+  {
+    "medicine_code": 1018,
+    "name": "Warfarin",
+    "brand": "Coumadin",
+    "description": "Prevents blood clots",
+    "cost": 451.68
+  },
+  {
+    "medicine_code": 1019,
+    "name": "Fluoxetine",
+    "brand": "Prozac",
+    "description": "Treats depression, anxiety disorders",
+    "cost": 309.44
+  }
+]

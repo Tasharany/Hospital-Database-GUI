@@ -1,0 +1,102 @@
+[
+  {
+    "procedure_code": 500,
+    "name": "Appendectomy",
+    "cost": 5000
+  },
+  {
+    "procedure_code": 501,
+    "name": "Colonoscopy",
+    "cost": 1500
+  },
+  {
+    "procedure_code": 502,
+    "name": "Endoscopy",
+    "cost": 2000
+  },
+  {
+    "procedure_code": 503,
+    "name": "Cataract Surgery",
+    "cost": 3000
+  },
+  {
+    "procedure_code": 504,
+    "name": "Knee Replacement",
+    "cost": 10000
+  },
+  {
+    "procedure_code": 505,
+    "name": "Hip Replacement",
+    "cost": 12000
+  },
+  {
+    "procedure_code": 506,
+    "name": "Gallbladder Removal",
+    "cost": 4000
+  },
+  {
+    "procedure_code": 507,
+    "name": "Hysterectomy",
+    "cost": 6000
+  },
+  {
+    "procedure_code": 508,
+    "name": "Laser Eye Surgery",
+    "cost": 2500
+  },
+  {
+    "procedure_code": 509,
+    "name": "Root Canal",
+    "cost": 800
+  },
+  {
+    "procedure_code": 510,
+    "name": "Wisdom Teeth Removal",
+    "cost": 1500
+  },
+  {
+    "procedure_code": 511,
+    "name": "Cardiac Catheterization",
+    "cost": 7000
+  },
+  {
+    "procedure_code": 512,
+    "name": "Angioplasty",
+    "cost": 9000
+  },
+  {
+    "procedure_code": 513,
+    "name": "Hernia Repair",
+    "cost": 3500
+  },
+  {
+    "procedure_code": 514,
+    "name": "Tonsillectomy",
+    "cost": 2000
+  },
+  {
+    "procedure_code": 515,
+    "name": "Rhinoplasty",
+    "cost": 5500
+  },
+  {
+    "procedure_code": 516,
+    "name": "Breast Biopsy",
+    "cost": 3000
+  },
+  {
+    "procedure_code": 517,
+    "name": "Lumbar Puncture",
+    "cost": 1200
+  },
+  {
+    "procedure_code": 518,
+    "name": "Colon Resection",
+    "cost": 8000
+  },
+  {
+    "procedure_code": 519,
+    "name": "Gastric Bypass",
+    "cost": 15000
+  }
+]

@@ -1,0 +1,198 @@
+[
+  {
+    "medicine_code": 1000,
+    "doctor_id": 1,
+    "patient_id": 100,
+    "date": "2024-04-28",
+    "dosage": "Take one tablet every 4-6 hours as needed for pain"
+  },
+  {
+    "medicine_code": 1001,
+    "doctor_id": 2,
+    "patient_id": 101,
+    "date": "2024-04-28",
+    "dosage": "Take one tablet every 6-8 hours with food"
+  },
+  {
+    "medicine_code": 1002,
+    "doctor_id": 3,
+    "patient_id": 102,
+    "date": "2024-04-28",
+    "dosage": "Take two tablets twice daily with water"
+  },
+  {
+    "medicine_code": 1002,
+    "doctor_id": 3,
+    "patient_id": 106,
+    "date": "2024-04-21",
+    "dosage": "Take 4 tablet(s) once daily"
+  },
+  {
+    "medicine_code": 1003,
+    "doctor_id": 2,
+    "patient_id": 123,
+    "date": "2024-04-20",
+    "dosage": "Take 4 tablet(s) twice daily"
+  },
+  {
+    "medicine_code": 1003,
+    "doctor_id": 7,
+    "patient_id": 105,
+    "date": "2024-04-25",
+    "dosage": "Take 3 tablet(s) once daily"
+  },
+  {
+    "medicine_code": 1003,
+    "doctor_id": 18,
+    "patient_id": 127,
+    "date": "2024-04-28",
+    "dosage": "Take 4 tablet(s) once daily"
+  },
+  {
+    "medicine_code": 1003,
+    "doctor_id": 20,
+    "patient_id": 114,
+    "date": "2024-04-12",
+    "dosage": "Take 3 tablet(s) once daily"
+  },
+  {
+    "medicine_code": 1004,
+    "doctor_id": 4,
+    "patient_id": 108,
+    "date": "2024-04-29",
+    "dosage": "Take 4 tablet(s) once daily"
+  },
+  {
+    "medicine_code": 1005,
+    "doctor_id": 5,
+    "patient_id": 108,
+    "date": "2024-04-26",
+    "dosage": "Take 2 tablet(s) once daily"
+  },
+  {
+    "medicine_code": 1005,
+    "doctor_id": 8,
+    "patient_id": 127,
+    "date": "2024-04-18",
+    "dosage": "Take 1 tablet(s) once daily"
+  },
+  {
+    "medicine_code": 1006,
+    "doctor_id": 2,
+    "patient_id": 111,
+    "date": "2024-04-20",
+    "dosage": "Take 1 tablet(s) twice daily"
+  },
+  {
+    "medicine_code": 1006,
+    "doctor_id": 8,
+    "patient_id": 128,
+    "date": "2024-04-20",
+    "dosage": "Take 2 tablet(s) twice daily"
+  },
+  {
+    "medicine_code": 1007,
+    "doctor_id": 1,
+    "patient_id": 127,
+    "date": "2024-04-20",
+    "dosage": "Take 3 tablet(s) twice daily"
+  },
+  {
+    "medicine_code": 1007,
+    "doctor_id": 3,
+    "patient_id": 111,
+    "date": "2024-04-18",
+    "dosage": "Take 3 tablet(s) twice daily"
+  },
+  {
+    "medicine_code": 1007,
+    "doctor_id": 3,
+    "patient_id": 115,
+    "date": "2024-04-06",
+    "dosage": "Take 2 tablet(s) twice daily"
+  },
+  {
+    "medicine_code": 1009,
+    "doctor_id": 1,
+    "patient_id": 120,
+    "date": "2024-04-13",
+    "dosage": "Take 4 tablet(s) twice daily"
+  },
+  {
+    "medicine_code": 1009,
+    "doctor_id": 17,
+    "patient_id": 119,
+    "date": "2024-04-25",
+    "dosage": "Take 1 tablet(s) once daily"
+  },
+  {
+    "medicine_code": 1010,
+    "doctor_id": 20,
+    "patient_id": 107,
+    "date": "2024-04-09",
+    "dosage": "Take 4 tablet(s) twice daily"
+  },
+  {
+    "medicine_code": 1011,
+    "doctor_id": 14,
+    "patient_id": 116,
+    "date": "2024-04-23",
+    "dosage": "Take 1 tablet(s) once daily"
+  },
+  {
+    "medicine_code": 1011,
+    "doctor_id": 17,
+    "patient_id": 108,
+    "date": "2024-04-01",
+    "dosage": "Take 2 tablet(s) once daily"
+  },
+  {
+    "medicine_code": 1012,
+    "doctor_id": 13,
+    "patient_id": 111,
+    "date": "2024-04-28",
+    "dosage": "Take 3 tablet(s) twice daily"
+  },
+  {
+    "medicine_code": 1012,
+    "doctor_id": 14,
+    "patient_id": 116,
+    "date": "2024-04-20",
+    "dosage": "Take 3 tablet(s) once daily"
+  },
+  {
+    "medicine_code": 1013,
+    "doctor_id": 17,
+    "patient_id": 127,
+    "date": "2024-04-08",
+    "dosage": "Take 2 tablet(s) once daily"
+  },
+  {
+    "medicine_code": 1014,
+    "doctor_id": 10,
+    "patient_id": 103,
+    "date": "2024-04-05",
+    "dosage": "Take 2 tablet(s) twice daily"
+  },
+  {
+    "medicine_code": 1014,
+    "doctor_id": 12,
+    "patient_id": 119,
+    "date": "2024-04-17",
+    "dosage": "Take 4 tablet(s) once daily"
+  },
+  {
+    "medicine_code": 1015,
+    "doctor_id": 18,
+    "patient_id": 102,
+    "date": "2024-04-24",
+    "dosage": "Take 3 tablet(s) once daily"
+  },
+  {
+    "medicine_code": 1016,
+    "doctor_id": 10,
+    "patient_id": 124,
+    "date": "2024-04-22",
+    "dosage": "Take 1 tablet(s) once daily"
+  }
+]

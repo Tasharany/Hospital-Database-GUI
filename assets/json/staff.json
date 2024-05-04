@@ -1,0 +1,452 @@
+[
+  {
+    "staff_id": 1,
+    "name": "John Smith",
+    "department": "Emergency Department (ER)",
+    "salary": 80000,
+    "age": "35",
+    "address": "123 Main St",
+    "email": "j.smith@email.com"
+  },
+  {
+    "staff_id": 2,
+    "name": "Emily Johnson",
+    "department": "Internal Medicine",
+    "salary": 85000,
+    "age": "40",
+    "address": "456 Elm St",
+    "email": "e.johnson@email.com"
+  },
+  {
+    "staff_id": 3,
+    "name": "Michael Williams",
+    "department": "Surgery",
+    "salary": 157500,
+    "age": "45",
+    "address": "789 Oak St",
+    "email": "m.williams@email.com"
+  },
+  {
+    "staff_id": 4,
+    "name": "Jessica Brown",
+    "department": "Pediatrics",
+    "salary": 75000,
+    "age": "30",
+    "address": "321 Pine St",
+    "email": "j.brown@email.com"
+  },
+  {
+    "staff_id": 5,
+    "name": "Daniel Davis",
+    "department": "Obstetrics and Gynecology",
+    "salary": 95000,
+    "age": "50",
+    "address": "654 Maple St",
+    "email": "d.davis@email.com"
+  },
+  {
+    "staff_id": 6,
+    "name": "Sarah Taylor",
+    "department": "Cardiology",
+    "salary": 198500,
+    "age": "55",
+    "address": "987 Cedar St",
+    "email": "s.taylor@email.com"
+  },
+  {
+    "staff_id": 7,
+    "name": "Christopher Martinez",
+    "department": "Oncology",
+    "salary": 85000,
+    "age": "40",
+    "address": "741 Birch St",
+    "email": "c.martinez@email.com"
+  },
+  {
+    "staff_id": 8,
+    "name": "Amanda Rodriguez",
+    "department": "Radiology",
+    "salary": 90000,
+    "age": "45",
+    "address": "852 Walnut St",
+    "email": "a.rodriguez@email.com"
+  },
+  {
+    "staff_id": 9,
+    "name": "James Garcia",
+    "department": "Neurology",
+    "salary": 160000,
+    "age": "35",
+    "address": "369 Pineapple St",
+    "email": "j.garcia@email.com"
+  },
+  {
+    "staff_id": 10,
+    "name": "Jennifer Hernandez",
+    "department": "Psychiatry",
+    "salary": 95000,
+    "age": "50",
+    "address": "258 Banana St",
+    "email": "j.hernandez@email.com"
+  },
+  {
+    "staff_id": 11,
+    "name": "Matthew Martinez",
+    "department": "Anesthesiology",
+    "salary": 85000,
+    "age": "40",
+    "address": "147 Orange St",
+    "email": "m.martinez@email.com"
+  },
+  {
+    "staff_id": 12,
+    "name": "Kennedy Achord",
+    "department": "Optometry",
+    "salary": 112500,
+    "age": "26",
+    "address": "369 Lemon St",
+    "email": "k.achord@email.com"
+  },
+  {
+    "staff_id": 13,
+    "name": "Andrew Gonzalez",
+    "department": "Ophthalmology",
+    "salary": 108750,
+    "age": "30",
+    "address": "741 Grape St",
+    "email": "a.gonzalez@email.com"
+  },
+  {
+    "staff_id": 14,
+    "name": "Olivia Perez",
+    "department": "Dermatology",
+    "salary": 100000,
+    "age": "55",
+    "address": "852 Mango St",
+    "email": "o.perez@email.com"
+  },
+  {
+    "staff_id": 15,
+    "name": "David Wilson",
+    "department": "ENT",
+    "salary": 148000,
+    "age": "35",
+    "address": "963 Peach St",
+    "email": "d.wilson@email.com"
+  },
+  {
+    "staff_id": 16,
+    "name": "Sophia Carter",
+    "department": "Emergency Department (ER)",
+    "salary": 85000,
+    "age": "40",
+    "address": "147 Plum St",
+    "email": "s.carter@email.com"
+  },
+  {
+    "staff_id": 17,
+    "name": "William Wright",
+    "department": "Internal Medicine",
+    "salary": 90000,
+    "age": "45",
+    "address": "258 Apple St",
+    "email": "w.wright@email.com"
+  },
+  {
+    "staff_id": 18,
+    "name": "Isabella Hill",
+    "department": "Surgery",
+    "salary": 166250,
+    "age": "50",
+    "address": "369 Pear St",
+    "email": "i.hill@email.com"
+  },
+  {
+    "staff_id": 19,
+    "name": "Joseph Young",
+    "department": "Pediatrics",
+    "salary": 80000,
+    "age": "35",
+    "address": "741 Cherry St",
+    "email": "j.young@email.com"
+  },
+  {
+    "staff_id": 20,
+    "name": "Charlotte Scott",
+    "department": "Obstetrics and Gynecology",
+    "salary": 85000,
+    "age": "40",
+    "address": "852 Grapefruit St",
+    "email": "c.scott@email.com"
+  },
+  {
+    "staff_id": 21,
+    "name": "Mason Nelson",
+    "department": "Cardiology",
+    "salary": 178650,
+    "age": "45",
+    "address": "963 Kiwi St",
+    "email": "m.nelson@email.com"
+  },
+  {
+    "staff_id": 22,
+    "name": "Harper Adams",
+    "department": "Oncology",
+    "salary": 75000,
+    "age": "30",
+    "address": "147 Watermelon St",
+    "email": "h.adams@email.com"
+  },
+  {
+    "staff_id": 23,
+    "name": "Evelyn Baker",
+    "department": "Radiology",
+    "salary": 100000,
+    "age": "55",
+    "address": "258 Blueberry St",
+    "email": "e.baker@email.com"
+  },
+  {
+    "staff_id": 24,
+    "name": "Jackson King",
+    "department": "Neurology",
+    "salary": 160000,
+    "age": "35",
+    "address": "369 Raspberry St",
+    "email": "j.king@email.com"
+  },
+  {
+    "staff_id": 25,
+    "name": "Liam Ward",
+    "department": "Psychiatry",
+    "salary": 85000,
+    "age": "40",
+    "address": "741 Blackberry St",
+    "email": "l.ward@email.com"
+  },
+  {
+    "staff_id": 26,
+    "name": "John Doe",
+    "department": "Emergency Department (ER)",
+    "salary": 95000,
+    "age": "35",
+    "address": "123 Main St",
+    "email": "jdoe@email.com"
+  },
+  {
+    "staff_id": 27,
+    "name": "Jane Smith",
+    "department": "Internal Medicine",
+    "salary": 90000,
+    "age": "40",
+    "address": "456 Elm St",
+    "email": "jsmith@email.com"
+  },
+  {
+    "staff_id": 28,
+    "name": "Michael Johnson",
+    "department": "Surgery",
+    "salary": 183750,
+    "age": "45",
+    "address": "789 Oak St",
+    "email": "mjohnson@email.com"
+  },
+  {
+    "staff_id": 29,
+    "name": "Emily Williams",
+    "department": "Pediatrics",
+    "salary": 85000,
+    "age": "30",
+    "address": "101 Maple St",
+    "email": "ewilliams@email.com"
+  },
+  {
+    "staff_id": 30,
+    "name": "Christopher Brown",
+    "department": "Obstetrics and Gynecology",
+    "salary": 110000,
+    "age": "38",
+    "address": "246 Pine St",
+    "email": "cbrown@email.com"
+  },
+  {
+    "staff_id": 31,
+    "name": "Jessica Davis",
+    "department": "Cardiology",
+    "salary": 198500,
+    "age": "42",
+    "address": "369 Cedar St",
+    "email": "jdavis@email.com"
+  },
+  {
+    "staff_id": 32,
+    "name": "David Taylor",
+    "department": "Oncology",
+    "salary": 95000,
+    "age": "35",
+    "address": "135 Walnut St",
+    "email": "dtaylor@email.com"
+  },
+  {
+    "staff_id": 33,
+    "name": "Maria Martinez",
+    "department": "Neurology",
+    "salary": 210000,
+    "age": "40",
+    "address": "579 Birch St",
+    "email": "mmartinez@email.com"
+  },
+  {
+    "staff_id": 34,
+    "name": "Daniel Rodriguez",
+    "department": "Psychiatry",
+    "salary": 90000,
+    "age": "37",
+    "address": "246 Oak St",
+    "email": "drodriguez@email.com"
+  },
+  {
+    "staff_id": 35,
+    "name": "Sarah Garcia",
+    "department": "Anesthesiology",
+    "salary": 110000,
+    "age": "45",
+    "address": "789 Elm St",
+    "email": "sgarcia@email.com"
+  },
+  {
+    "staff_id": 36,
+    "name": "Matthew Hernandez",
+    "department": "Orthopedics",
+    "salary": 100000,
+    "age": "41",
+    "address": "963 Maple St",
+    "email": "mhernandez@email.com"
+  },
+  {
+    "staff_id": 37,
+    "name": "Amanda Martinez",
+    "department": "Ophthalmology",
+    "salary": 137750,
+    "age": "32",
+    "address": "147 Cedar St",
+    "email": "amartinez@email.com"
+  },
+  {
+    "staff_id": 38,
+    "name": "Laura Lopez",
+    "department": "Dermatology",
+    "salary": 105000,
+    "age": "39",
+    "address": "258 Pine St",
+    "email": "llopez@email.com"
+  },
+  {
+    "staff_id": 39,
+    "name": "Robert Gonzalez",
+    "department": "ENT",
+    "salary": 166500,
+    "age": "36",
+    "address": "369 Walnut St",
+    "email": "rgonzalez@email.com"
+  },
+  {
+    "staff_id": 40,
+    "name": "Jennifer Perez",
+    "department": "Radiology",
+    "salary": 100000,
+    "age": "43",
+    "address": "579 Birch St",
+    "email": "jperez@email.com"
+  },
+  {
+    "staff_id": 41,
+    "name": "William Wilson",
+    "department": "Emergency Department (ER)",
+    "salary": 95000,
+    "age": "35",
+    "address": "123 Main St",
+    "email": "wwilson@email.com"
+  },
+  {
+    "staff_id": 42,
+    "name": "Mary Carter",
+    "department": "Cardiology",
+    "salary": 178650,
+    "age": "40",
+    "address": "456 Elm St",
+    "email": "mcarter@email.com"
+  },
+  {
+    "staff_id": 43,
+    "name": "James Wright",
+    "department": "Internal Medicine",
+    "salary": 105000,
+    "age": "45",
+    "address": "789 Oak St",
+    "email": "jwright@email.com"
+  },
+  {
+    "staff_id": 44,
+    "name": "Karen Hill",
+    "department": "Surgery",
+    "salary": 148750,
+    "age": "30",
+    "address": "101 Maple St",
+    "email": "khill@email.com"
+  },
+  {
+    "staff_id": 45,
+    "name": "Michael Young",
+    "department": "Pediatrics",
+    "salary": 110000,
+    "age": "38",
+    "address": "246 Pine St",
+    "email": "myoung@email.com"
+  },
+  {
+    "staff_id": 46,
+    "name": "Jennifer Scott",
+    "department": "Obstetrics and Gynecology",
+    "salary": 100000,
+    "age": "42",
+    "address": "369 Cedar St",
+    "email": "jscott@email.com"
+  },
+  {
+    "staff_id": 47,
+    "name": "David Nelson",
+    "department": "Oncology",
+    "salary": 95000,
+    "age": "35",
+    "address": "135 Walnut St",
+    "email": "dnelson@email.com"
+  },
+  {
+    "staff_id": 48,
+    "name": "Jessica Adams",
+    "department": "Neurology",
+    "salary": 210000,
+    "age": "40",
+    "address": "579 Birch St",
+    "email": "jadams@email.com"
+  },
+  {
+    "staff_id": 49,
+    "name": "John Baker",
+    "department": "Radiology",
+    "salary": 90000,
+    "age": "37",
+    "address": "246 Oak St",
+    "email": "jbaker@email.com"
+  },
+  {
+    "staff_id": 50,
+    "name": "Mary King",
+    "department": "Orthopedics",
+    "salary": 110000,
+    "age": "45",
+    "address": "789 Elm St",
+    "email": "mking@email.com"
+  }
+]
